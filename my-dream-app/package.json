@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "backend -d dist --source-maps",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
